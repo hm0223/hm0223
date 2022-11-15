@@ -6,7 +6,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Engineer at [C&P](http://www.cpgroup.cn/) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Engineer at [C&P](http://www.cpgroup.cn/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture.\
