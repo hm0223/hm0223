@@ -115,5 +115,4 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=hm0223&style=plastic&label=Views" />
-<img src="https://badges.pufler.dev/visits/hm0223/hm0223?color=black&logo=github" />
 </p>
