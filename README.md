@@ -80,7 +80,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge</b></summary>
   <br/>
 
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
