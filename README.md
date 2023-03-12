@@ -7,11 +7,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Engineer at [C&P](http://www.cpgroup.cn/). \
+<!-- &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Engineer at [C&P](http://www.cpgroup.cn/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 5+ years of experience in enterprise wide software development.
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 5+ years of experience in enterprise wide software development. -->
 
 <p align="center">
   <a href="mailto:huwenfeng.vip@gmail.com?subject=hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
