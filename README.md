@@ -24,7 +24,7 @@
 
 <hr/>
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Main knowledge</b></summary>
   <br/>
 
