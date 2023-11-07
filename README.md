@@ -108,11 +108,13 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <hr/>
 
+<!-- 
 <p align="center">
  <a href="#">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="#" style="max-width: 100%;">
  </a>
 </p>
+-->
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=hm0223&style=plastic&label=Views" />
