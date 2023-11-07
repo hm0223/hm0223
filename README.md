@@ -79,7 +79,7 @@ php, photoshop
 blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
 -->
 
-<details>
+<details open>
   <summary><b>:brain: &nbsp;Other knowledge</b></summary>
   <br/>
 
