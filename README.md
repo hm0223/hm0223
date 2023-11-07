@@ -25,7 +25,7 @@
 <hr/>
 
 <details>
-  <b>:computer: &nbsp;Main knowledge</b>
+  <summary><b>:computer: &nbsp;Main knowledge</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
